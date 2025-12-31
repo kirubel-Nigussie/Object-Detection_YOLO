@@ -1,0 +1,5 @@
+Air_pod
+Multi_adapter
+Smart_phone
+Water_bottle
+world_globe
